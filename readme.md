@@ -12,7 +12,7 @@ This JAVA project is part of an A.I course - Introduction to artificial intellig
  * DFBnB - Depth First Branch and Bound.
  * IDA* - Iterative deepening A*.
  
- ####Options
+ #### Options
  
  There is an additional editable `input.txt` file in the project which contains (in the correct order) :
  - The name of the desirable algorithm from the list above. (1)
@@ -25,7 +25,7 @@ This JAVA project is part of an A.I course - Introduction to artificial intellig
  - The puzzle itself (5).
  - The solved puzzle which the puzzle supposed to turn to when the specific algorithm finishes it job (6).
  
- ####input.txt Example
+ #### input.txt Example
  
       BFS 
       with time
@@ -48,7 +48,7 @@ This JAVA project is part of an A.I course - Introduction to artificial intellig
       3,5,6
       2,_,7
   
- ####Special conditions
+ #### Special conditions
  - For a single block movement (which close to the empty block) there is a cost of 5 for each moves
  - If the board contains **TWO** empty blocks then the nearby blocks will be able to move parallel horizontal or vertical, two vertical blocks movements **costs 6** 
  and two horizontal blocks movements **costs 7**.
@@ -63,7 +63,7 @@ Therefore, the cost of the "sliding" above will be 5 (single block) + 7 (two blo
  
  
  
- #####Finally:
+ ##### Finally:
  
  For any other suggestions/improvements feel free to contact me or just drop an issue
  
