@@ -64,6 +64,7 @@ Therefore, the cost of the "sliding" above will be 5 (single block) + 7 (two blo
  
  
  #####Finally:
+ 
  For any other suggestions/improvements feel free to contact me or just drop an issue
  
  
